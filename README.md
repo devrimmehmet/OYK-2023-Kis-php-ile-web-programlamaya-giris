@@ -19,8 +19,8 @@ Kurs eğitmenleri; [**`Nuri Akman`**](), [**`Osman KAYI`**](), [**`Uğur ARICI`*
 	</a>
 </p>
 
-#### Bilişim Hukuku Sınıfı
-##### `Kamp boyunca tatlı atışmalarla derslere can katan tüm arkadaşlarıma teşekkürler.`
+#### Php ve Web Programlamaya Giriş Sınıfı
+##### `Kamp boyunca molasız derse devamlılık enerjisini bulabilen bütün arkadaşlarıma fedakarlığın son noktasını bize gösteren hocalarımıza Teşekkürler.`
 
 <p align="center">
 	<a href="#">
@@ -32,5 +32,5 @@ Kurs eğitmenleri; [**`Nuri Akman`**](), [**`Osman KAYI`**](), [**`Uğur ARICI`*
 
 **NOT:** Bu repo henüz tamamlanmış değildir. Tüm notları temize çekmek süre alıyor. Fakat yüklenen kısımında bulduğunuz eksiklikleri [**`Pull Request atarak`**]() giderebilirsiniz. Bu sayade daha eksiksiz ve özgür bir kaynak oluşturmuş oluruz.
 
-Benimle direk iletişime geçmek için;
+İletişim için;
 ##### Mail :[**`devrimmehmet@gmail.com`**](devrimmehmet@gmail.com)
